@@ -1,6 +1,6 @@
 # A/B Test Results
 ## Analyzing an E-commerce's A/B Test Results 
-This project focuses on understanding the results of an A/B test run by an e-commerce website. The company developed a new page to increase conversion rates. The goal of this analysis is to explore and reveal insights to help the company understand if they should implement this new page, keep the old page, or run the experiment longer to make their decision.
+This project focuses on statistical techniques to answer questions and make recommendations for an e-commerce based on A/B test results. The company developed a new page to increase conversion rates. The goal of this analysis is to explore and reveal insights to help the company understand if they should implement this new page, keep the old page, or run the experiment longer to make their decision.
 
 # Datasets
 This project consists of two datasets. The first set includes experiment variables such as user_id, timestamp, group, landing page version, and converstion rates. The second dataset includes the same information but categorized by country. Both datasets were provided by Udacity and are included in this repo as 'ab_data.csv' and 'countries.csv,' respectively. Similar datasets can be found on Kaggle (i.e. [A/B Test Results an e-commerce website](https://www.kaggle.com/brittoh/a-b-test-results-an-e-commerce-website/notebook#A/B-Test-Results-an-e-commerce-website)).
